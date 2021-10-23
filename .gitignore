@@ -1,0 +1,4 @@
+angular-docker/*
+spring-boot-docker/*
+.metadata
+.vscode
