@@ -36,8 +36,8 @@ services:
    api:
     image: adriancalventos/backend
     container_name: backend
-    build:
-      context: .
+    #build:
+      #context: .
       #Use the DockerFile in that Directory
       #dockerfile: spring-boot-docker/Dockerfile
     #This Service Depends on the database service specifed above
